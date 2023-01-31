@@ -6,8 +6,6 @@ You can view the card by clicking the link below :
 
 ## Tools
 
----
-
 I create this page using :
 
 - [ReactJs](https://reactjs.org/)
