@@ -4,7 +4,7 @@ Nothing special, just a simple card made using react. In this project I learned 
 
 You can view the card by clicking the link below :
 
-- https://da-frst-card.netlify.app
+- https://1-the-frst-card.netlify.app/
 
 ## Tools
 
