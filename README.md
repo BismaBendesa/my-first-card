@@ -1,5 +1,7 @@
 # My first react card
 
+Nothing special, just a simple card made using react. In this project I learned how to make a static design using React**(Javascript Front-End Framework). Basically just the cover the basic of how you use react.
+
 You can view the card by clicking the link below :
 
 - https://da-frst-card.netlify.app
@@ -10,6 +12,7 @@ I create this page using :
 
 - [ReactJs](https://reactjs.org/)
 - [Vite **(Front-End Tool)**](https://vitejs.dev/)
+- [Netlify **(Web Hosting)]
 
 ## Credits
 
